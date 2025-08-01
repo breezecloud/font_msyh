@@ -1,2 +1,3 @@
 # font_msyh
-微软雅黑字体文件,版本0.75. This font has been repackaged for the Python Fonts module: https://pypi.org/project/fonts/ 
+Microsoft YaHei font file, version 0.75. This font has been repackaged for the Python Fonts module: https://pypi.org/project/fonts/ 
+usage:pip install font-msyh
